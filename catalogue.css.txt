@@ -1,1 +1,2 @@
 Styles pour le catalogue
+Correction de bug
